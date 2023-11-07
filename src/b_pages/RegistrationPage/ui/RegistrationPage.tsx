@@ -1,6 +1,6 @@
 import {Box, Button, Divider, Paper, Stack, TextField, Typography} from "@mui/material";
-import {getGradient} from "../../../app/theme.tsx";
-import {PasswordField} from "../../../f_shared/PasswordField";
+import {getGradient} from "@/app/theme.tsx";
+import {PasswordField} from "@/f_shared/PasswordField";
 import {useState} from "react";
 import {Link} from "react-router-dom";
 

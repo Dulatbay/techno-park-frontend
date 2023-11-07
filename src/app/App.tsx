@@ -1,6 +1,6 @@
 import {Outlet} from "react-router-dom";
 import {Suspense} from "react";
-import {LoadingSpinner} from "../f_shared/LoadingSpinner";
+import {LoadingSpinner} from "@/f_shared/LoadingSpinner";
 
 function App() {
     return (
